@@ -1,5 +1,7 @@
 body{
 background-color: antiquewhite;
+display:flex; 
+justify-content:center;
     }
     canvas{
 background-image: url('download.jpg');
